@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Content on Duda Makes Things!</title>
+    <link>https://dudamakesthings.github.io/pt-br/</link>
+    <description>Recent content in Content on Duda Makes Things!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 25 Jan 2024 21:35:54 +0100</lastBuildDate><atom:link href="https://dudamakesthings.github.io/pt-br/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Este é o título</title>
+      <link>https://dudamakesthings.github.io/pt-br/post/test/</link>
+      <pubDate>Thu, 25 Jan 2024 21:12:26 +0100</pubDate>
+      
+      <guid>https://dudamakesthings.github.io/pt-br/post/test/</guid>
+      
+        <description>Primeira Tentativa de Escrita Tem sido difícil conseguir ajustar o tema que escolhi, parece que faltam algumas atualizações pra uma nova versão do hugo, principalmente para as linguagens.
+Estou tentando escrever usando linguagem de Markdown também, que é uma coisa que não tenho hábito de usar. Acho que vai levar um tempo até eu conseguir me sentir segura.
+Depois posso deletar essa postagem, mas é mais um teste.</description>
+      
+    </item>
+    
+    <item>
+      <title>Sobre Duda Makes Things e Quem Escreve</title>
+      <link>https://dudamakesthings.github.io/pt-br/about/</link>
+      <pubDate>Sun, 21 Jan 2024 21:22:43 +0100</pubDate>
+      
+      <guid>https://dudamakesthings.github.io/pt-br/about/</guid>
+      
+        <description>Olá e Boas Vindas!
+Meu nome é Eduarda mas pode me chamar de Duda.
+Eu sou uma gaúcha nos seus 30&amp;rsquo;s que está morando atualmente na Holanda.
+Eu amo muito coisas feitas a mão, eu gosto de crochetar e tricotar.
+Eu planejo postar alguns dos meus projetos por aqui e no meu instagram.
+Porque Duda Makes Things? Bom, a tradução é &amp;ldquo;Duda Faz Coisas&amp;rdquo; e eu acho que é autoexplicativo. Eu gosto muito de fazer muitas coisas diferentes, ter muitos projetos diferentes e é o que quero compartilhar por aqui.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
