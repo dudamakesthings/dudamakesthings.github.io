@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Content on Duda Makes Things!</title>
-    <link>https://dudamakesthings.github.io/pt-br/</link>
-    <description>Recent content in Content on Duda Makes Things!</description>
+    <title>Projetos on Duda Makes Things!</title>
+    <link>https://dudamakesthings.github.io/pt-br/projetos/</link>
+    <description>Recent content in Projetos on Duda Makes Things!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Thu, 25 Jan 2024 21:35:54 +0100</lastBuildDate><atom:link href="https://dudamakesthings.github.io/pt-br/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Feb 2024 20:10:27 +0100</lastBuildDate><atom:link href="https://dudamakesthings.github.io/pt-br/projetos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Electric Sheep Crafts</title>
       <link>https://dudamakesthings.github.io/pt-br/projetos/esc/</link>
@@ -42,34 +42,6 @@ O porque do nome eu expliquei na publicação em inglês aqui no dudamakesthings
         <description>O projeto foi criado em Agosto de 2023 como uma página/perfil no Instagram, lá eu comecei a criar imagens para conseguir postar as coisas que eu escrevia.
 Falo que são poesias, mas nem sempre elas possuem a estrutura de um poema. Em sua maioria são alguns versos de uma cadeia de pensamento ao qual apenas o sentimento guia o fluxo.
 Eu acabei excluindo o perfil do Instagram, mas quero continuar escrevendo alguns versos quando sentir vontade, por isso, resolvi criar um espaço para o projeto aqui.</description>
-      
-    </item>
-    
-    <item>
-      <title>Este é o título</title>
-      <link>https://dudamakesthings.github.io/pt-br/post/test/</link>
-      <pubDate>Thu, 25 Jan 2024 21:12:26 +0100</pubDate>
-      
-      <guid>https://dudamakesthings.github.io/pt-br/post/test/</guid>
-      
-        <description>Primeira Tentativa de Escrita Tem sido difícil conseguir ajustar o tema que escolhi, parece que faltam algumas atualizações pra uma nova versão do hugo, principalmente para as linguagens.
-Estou tentando escrever usando linguagem de Markdown também, que é uma coisa que não tenho hábito de usar. Acho que vai levar um tempo até eu conseguir me sentir segura.
-Depois posso deletar essa postagem, mas é mais um teste.</description>
-      
-    </item>
-    
-    <item>
-      <title>Sobre Duda Makes Things e Quem Escreve</title>
-      <link>https://dudamakesthings.github.io/pt-br/about/</link>
-      <pubDate>Sun, 21 Jan 2024 21:22:43 +0100</pubDate>
-      
-      <guid>https://dudamakesthings.github.io/pt-br/about/</guid>
-      
-        <description>Olá! Me chamo Eduarda mas pode me chamar de Duda.
-Eu sou uma gaúcha nos seus 30&amp;rsquo;s que está morando atualmente na Holanda.
-Eu amo muito coisas feitas a mão, eu gosto de crochetar e tricotar.
-Minha ideia aqui é postar alguns dos meus projetos, escrever sobre minhas opiniões e aprendizados.
-Porque Duda Makes Things? Bom, a tradução é &amp;ldquo;Duda Faz Coisas&amp;rdquo; e eu acho que é autoexplicativo. Eu gosto muito de fazer muitas coisas diferentes, ter muitos projetos diferentes e é o que quero compartilhar por aqui.</description>
       
     </item>
     
